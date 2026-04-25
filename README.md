@@ -8,7 +8,7 @@ Ubuntu / WSL2 上安裝 Claude Code 的最簡方式。
 ```bash
 git clone https://github.com/a0935951152-droid/Claude_Code_Class_0425
 cd Claude_Code_Class_0425
-./install.sh
+./install-ubuntu.sh
 ```
 
 安裝完成後：
