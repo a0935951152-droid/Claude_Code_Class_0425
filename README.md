@@ -6,7 +6,7 @@ Ubuntu / WSL2 上安裝 Claude Code 的最簡方式。
 ## 安裝
 
 ```bash
-git clone https://github.com/你的帳號/claude-code-installer.git
+git clone https://github.com/a0935951152-droid/claude-code-installer.git
 cd claude-code-installer
 ./install.sh
 ```
